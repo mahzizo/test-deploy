@@ -1,6 +1,17 @@
 
+<%-- <% response.sendRedirect("goToLogin"); %> --%>
 
-<% response.sendRedirect("login"); %>
+<%-- <%@page import="com.mahzizo.tammam.controller.BasicController"%> --%>
+<%-- <% --%>
+<!-- // 	BasicController basicController = new BasicController(); -->
+<!-- // 	request.getSession().setAttribute("login", basicController.isLogin()); -->
+<!-- // 	request.getSession().setAttribute("user", basicController.getUser()); -->
+<!-- // 	response.sendRedirect("login"); -->
+<%-- %> --%>
+
+<%
+	response.sendRedirect("home");
+%>
 
 <!-- <!DOCTYPE html> -->
 <!-- <html lang="utf-8"> -->

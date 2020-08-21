@@ -1,0 +1,6 @@
+com\mahzizo\tammam\controller\home\HomeController.class
+com\mahzizo\tammam\model\post\Post.class
+com\mahzizo\tammam\config\SpringMvcDispatcherServletInitializer.class
+com\mahzizo\tammam\service\json\JSONParsingService.class
+com\mahzizo\tammam\service\json\ParsingService.class
+com\mahzizo\tammam\config\WebConfig.class
