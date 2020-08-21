@@ -1,0 +1,42 @@
+.padding{
+    padding-top: 60px;
+}
+.navbar {
+    background-color: #00BFA6 !important;
+}
+
+nav a {
+    cursor: pointer;
+} 
+
+.addPost input{
+    width: 70%;
+   
+}
+.addPost {
+   padding-top: 25px;
+   border-bottom: 1px solid rgb(219, 219, 219);
+   padding-bottom: 25px;
+}
+.btn-success{  
+   background-color: #00BFA6 ;
+   border-color: #00BFA6;      
+}
+button .post{
+    width: 20%;
+}
+
+.clear{
+  clear: both;
+}
+.btn-primary{
+  background-color:#00BFA6 !important;
+  border-color:#00BFA6 !important;
+}
+.input-group button{
+  background-color:#00BFA6 !important;
+  border-color:#00BFA6 !important;
+}
+.footerColor {
+    background-color: #00BFA6 !important;
+  }
